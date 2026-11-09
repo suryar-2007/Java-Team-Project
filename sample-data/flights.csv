@@ -1,0 +1,12 @@
+# ====================================================================================================
+# Commercial Airline Fleet Telemetry & Flight Operations Sample CSV
+# Format:
+# flight_number,aircraft_tail,origin,destination,departure,arrival,distance_km,payload_kg,passengers,category,phase1_fuel,phase2_fuel,phase3_fuel,phase1_vib,phase2_vib,phase3_vib
+# ====================================================================================================
+flight_number,aircraft_tail,origin,destination,departure,arrival,distance_km,payload_kg,passengers,category,phase1_fuel,phase2_fuel,phase3_fuel,phase1_vib,phase2_vib,phase3_vib
+AA102,N771AA,LHR,JFK,2026-11-07 10:00,2026-11-07 18:30,5550.0,46500.0,305,LONG_HAUL_INTERNATIONAL,9500.0,29200.0,3400.0,1.52,1.60,1.35
+BA305,F-GZCP,CDG,IAD,2026-11-07 13:45,2026-11-07 22:15,6200.0,42000.0,298,LONG_HAUL_INTERNATIONAL,9100.0,30500.0,3200.0,1.40,1.55,1.25
+AI554,VT-NEO,BOM,MAA,2026-11-08 06:30,2026-11-08 08:20,1030.0,17200.0,175,SHORT_HAUL_REGIONAL,1100.0,1750.0,380.0,1.65,1.80,1.40
+DL1402,N8701M,MCO,BOS,2026-11-08 09:15,2026-11-08 12:10,1810.0,18500.0,168,SHORT_HAUL_REGIONAL,1900.0,3800.0,600.0,1.75,2.05,1.50
+FD705,N701FD,FRA,ORD,2026-11-08 14:00,2026-11-08 23:40,6950.0,95000.0,0,CARGO_FREIGHT,15200.0,48000.0,5100.0,1.85,2.15,1.65
+GT912,N856GT,ANC,ICN,2026-11-09 02:00,2026-11-09 11:30,6050.0,118000.0,0,CARGO_FREIGHT,18500.0,52000.0,5800.0,2.60,4.25,3.90
